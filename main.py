@@ -4,6 +4,9 @@ import pandas as pd
 def relu(x):
     return np.maximum(0,x)
 
+def sigmoid(x):
+    return 1 / (1 + np.e**-x)
+
 df = pd.read_csv("data.csv")
 
 x_train = df["Text"]
@@ -29,5 +32,5 @@ hidden_neurons = relu(np.dot(input_neurons, input_weights))
 
 hidden_weights = np.ones((hidden_neuron_count,output_neuron_count))
 
-output = relu(np.dot(hidden_neurons, hidden_weights))
+output = sigmoid(np.dot(hidden_neurons, hidden_weights))
 print(output)
