@@ -1,4 +1,5 @@
 ## Sentiment Analyzer Neural Network
+---
 ## Overview
 Implementation of an Artificial Neural Network(ANN) from scratch for Sentiment Analysis. User will be prompted for a text which the AI will determine whether it is Positive or Negative.
 
