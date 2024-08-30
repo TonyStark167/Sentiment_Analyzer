@@ -1,0 +1,31 @@
+Category,Text,Sentiment
+Product Review,"This smartphone exceeded my expectations with its outstanding battery life and camera quality.",1
+Product Review,"The laptop is lightweight and performs exceptionally well for all my tasks.",1
+Product Review,"I love the rich flavor of this coffee; it's the perfect start to my day.",1
+Product Review,"The phone constantly overheats, making it almost unusable.",-1
+Product Review,"This laptop is too slow and freezes frequently, even during basic tasks.",-1
+Product Review,"The coffee tastes burnt and is far too bitter for my liking.",-1
+Movie Review,"The movie was a masterpiece with brilliant acting and a gripping storyline.",1
+Movie Review,"I was completely immersed from start to finish; the cinematography was breathtaking.",1
+Movie Review,"A feel-good film with a powerful message; I would watch it again.",1
+Movie Review,"The plot was predictable, and the acting was mediocre at best.",-1
+Movie Review,"I found the movie boring and couldn't wait for it to end.",-1
+Movie Review,"The characters were underdeveloped, and the story lacked depth.",-1
+Restaurant Review,"The food was delicious, and the service was top-notch. Highly recommend!",1
+Restaurant Review,"A fantastic dining experience with a cozy atmosphere and friendly staff.",1
+Restaurant Review,"The dessert was heavenly, and the portions were generous.",1
+Restaurant Review,"The food was bland, and the service was incredibly slow.",-1
+Restaurant Review,"Overpriced for the quality of food served. Not worth it.",-1
+Restaurant Review,"The restaurant was too noisy, and the staff seemed uninterested.",-1
+Service Review,"The customer service was excellent; they resolved my issue quickly.",1
+Service Review,"Very friendly and professional staff, who made me feel valued.",1
+Service Review,"Quick and efficient service with a personal touch. Impressed!",1
+Service Review,"Terrible service, they didn't even bother to address my concerns.",-1
+Service Review,"I had to wait on hold for over an hour, and they were still unhelpful.",-1
+Service Review,"The staff was rude, and the service was painfully slow.",-1
+Social Media Post,"Just had the best day ever! Feeling so grateful and happy.",1
+Social Media Post,"This community is amazing; everyone is so supportive and kind.",1
+Social Media Post,"Excited for the weekend! Got so many fun plans ahead.",1
+Social Media Post,"Today has been awful, nothing seems to be going right.",-1
+Social Media Post,"Feeling really down lately, can't shake this sadness.",-1
+Social Media Post,"I'm so tired of all the negativity on social media these days.",-1
